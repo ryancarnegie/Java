@@ -9,6 +9,5 @@ class Solution {
     }
 }
 
-
 It has a time complexity of O(n), where n is the length of the array, because it processes each element once. 
 The space complexity is O(1), as it uses a constant amount of extra space for the temporary variable (temp).
